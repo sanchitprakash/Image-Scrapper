@@ -1,5 +1,5 @@
 # Image-Scrapper
-Scrap specified images from Google and download them in parallel to create datasets efficiently for training your neural networks. 
+Scrape specified images from Google and download them in parallel to create datasets efficiently for training your neural networks. 
 
 ## Requirments
 Install the required dependencies:
